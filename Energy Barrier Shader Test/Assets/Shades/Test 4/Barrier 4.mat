@@ -57,13 +57,22 @@ Material:
     - _AlphaToMask: 0
     - _Blend: 2
     - _CastShadows: 1
+    - _Cell_Angle_Offset: 4
+    - _Cell_Density: 5.5
     - _Cull: 0
+    - _Down_Speed_1: 0.2
+    - _Down_Speed_2: -0.71
     - _DstBlend: 1
     - _Flicker_On: 1
     - _FresnelPower: 0
     - _Fresnel_Power: 0
+    - _Gradient_Scale: 2.8
+    - _Grid: 0
     - _InterceptionThickness: 0.78
-    - _Interception_Thickness: 1.12
+    - _Interception_Thickness: 1.5
+    - _Latice: 1
+    - _Left_Speed_1: 0
+    - _Left_speed_2: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 5
@@ -71,13 +80,18 @@ Material:
     - _Thick: 1
     - _ThickThinToggle: 0
     - _Thin: 0
+    - _Toggle_1: 0
+    - _Toggle_2: 1
     - _VignetteOnOff: -3.37
     - _ZTest: 4
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
     - _BarrierColour: {r: 1, g: 0, b: 0.028217316, a: 0}
-    - _Barrier_Colour: {r: 1, g: 0, b: 0.8986454, a: 0}
+    - _Barrier_Colour: {r: 0.0120284045, g: 0, b: 0.9607843, a: 0}
     - _InteresectionColour: {r: 0.15395403, g: 0, b: 1, a: 1}
-    - _Interesection_Colour: {r: 1, g: 0.19530554, b: 0, a: 1}
+    - _Interesection_Colour: {r: 1, g: 0, b: 0.8439722, a: 1}
+    - _Tilling_Size: {r: 0.4, g: 3, b: 0, a: 0}
+    - _Tilling_Size_1: {r: 0.4, g: 3, b: 0, a: 0}
+    - _Tilling_Size_2: {r: 1.7, g: 4, b: 0, a: 0}
   m_BuildTextureStacks: []
